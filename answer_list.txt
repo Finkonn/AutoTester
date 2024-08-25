@@ -1,0 +1,45 @@
+Question 1: c
+Question 2: d, a
+Question 3: c
+Question 4: d
+Question 5: b, a
+Question 6: d
+Question 7: No answer
+Question 8: a
+Question 9: a, b
+Question 10: c
+Question 11: a
+Question 12: a
+Question 13: d, a
+Question 14: a
+Question 15: d
+Question 16: b
+Question 17: a
+Question 18: c, b
+Question 19: d
+Question 20: d
+Question 21: a
+Question 22: b
+Question 23: c
+Question 24: d
+Question 25: b
+Question 26: No answer
+Question 27: c
+Question 28: b, c
+Question 29: d
+Question 30: a
+Question 31: c
+Question 32: e
+Question 33: c
+Question 34: b
+Question 35: c, a, d
+Question 36: a
+Question 37: No answer
+Question 38: b
+Question 39: a
+Question 40: b, d
+Question 41: b, c
+Question 42: a, No answer
+Question 43: d
+Question 44: No answer
+Question 45: d
